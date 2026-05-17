@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rnr-e2e-1779002431.example.com/sitemap.xml
